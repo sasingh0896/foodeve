@@ -1,0 +1,17 @@
+{
+    "PORT": 3037,
+    "databaseSettings": {
+      "host": "localhost",
+      "user": "root",
+      "password": "Ilujkvmss",
+      "database": "foodeve",
+      "insecureAuth" : true
+    },
+  "emailCredentials":{
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "senderEmail": "nitubisht9932@gmail.com",
+    "senderPassword": "Ilujkvmss",
+    "From": "nitubisht9932@gmail.com"
+  }
+}
